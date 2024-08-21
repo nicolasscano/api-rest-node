@@ -17,7 +17,7 @@ Este es un proyecto de API REST para un blog personal, desarrollado con Node.js,
 - Node.js
 - Express
 - MongoDB
-- Mongoose (ODM)
+- Mongoose (ORM)
 - Multer (para la carga de archivos)
 - Validator (para validación de datos)
 - CORS
